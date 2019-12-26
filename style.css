@@ -1,4 +1,10 @@
-html, 
+html,body{
+  font-family: sans-serif;
+  margin: 0;
+  width: 100%;
+  Height: 100%;
+}
+
 h1 {
 font size: 48px;
 text-align: center;
