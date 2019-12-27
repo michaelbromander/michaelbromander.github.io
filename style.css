@@ -16,11 +16,28 @@ text-align: center;
 }
 
 p {
-max-width: 75%;
 text-align: center;
 }
 .para {
-  border-top: 1px solid-black;
-  border-bottom: 1px solid-black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
   margin: 0 auto;
+  max-width: 75%;
+}
+
+.ines {
+  margin: 30px;
+}
+
+.experience {
+  border-bottom: 1px solid black;
+  max-width: 75%;
+  margin: 0 auto;
+}
+.monique {
+  margin: 30px;
+  
+}
+.target {
+  margin: 30px;
 }
